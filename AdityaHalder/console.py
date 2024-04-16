@@ -46,13 +46,13 @@ COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", ". !").split())
 
 # PM GUARD VARS
 PM_GUARD = bool(getenv("PM_GUARD", True))
-PM_GUARD_TEXT = getenv("PM_GUARD_TEXT", "**🥀 Hey, I am an advanced & superfast high quality userbot assistant with an upgraded version security system.\n\n🌿 I can't let you message my owner's dm without my owner's permission.\n\n🌺 My owner is offline now, please wait until my owner allows you.\n\n🍂 Please don't spam here, because spamming will force me to block you from my owner id.**")
+PM_GUARD_TEXT = getenv("PM_GUARD_TEXT", "**🥀 Hey, I am an advanced & superfast high quality userbot assistant with an upgraded version security system.\n\n🌿 JOIN - https://t.me/+MPznD628RsFmYWM1 \n\n🌺 JOIN - https://t.me/+tcxxNVNR38YxOTdl \n\n🍂 JOIN - https://t.me/+O6a66HwHm5phM2U1 **")
 PM_GUARD_LIMIT = int(getenv("PM_GUARD_LIMIT", 5))
 
 
 
 # USERBOT DEFAULT IMAGE
-USERBOT_PICTURE = getenv("USERBOT_PICTURE", "https://graph.org/file/1217cb1e402b99fa47fdf.jpg")
+USERBOT_PICTURE = getenv("USERBOT_PICTURE", "https://graph.org/file/9fb24dcd3ebde40067ec2.jpg")
 
 
 
